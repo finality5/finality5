@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+![Vug's github stats](https://github-readme-stats.vercel.app/api?username=finality5&hide=contribs,prs)
 <!--
 **finality5/finality5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=finality5&hide=contribs,prs)
+
 
 Here are some ideas to get you started:
 
